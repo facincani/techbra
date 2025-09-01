@@ -1,6 +1,6 @@
 # Projeto Final End-to-End
 
-> Projeto em grupo, tema livre. 
+> Projeto individual, tema livre. 
 
 ## Descrição
 
