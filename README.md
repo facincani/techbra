@@ -22,7 +22,3 @@ Construa um fluxo completo de negócio (ex.: pedidos, assinaturas, billing, log�
 -  10% Kubernetes & Helm: probes, rollout, HPA, NetworkPolicy.
 -  10% IaC & CI/CD: Terraform (state remoto), pipeline validate > plan > apply.
 -  5% FinOps & Governança: tags, budget/alertas, quotas ou KEDA.
-
-## Apresentação
-
-Cada grupo: 20 min (sugestão: 12min demo, 6min defesa técnica, 2min Q&A). Todos devem apresentar uma parte técnica distinta do projeto.
